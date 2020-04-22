@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f17262</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="transparent">#00000000</color>
+    <color name="red">#ff0000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="button_red">#f17262</color>
+
+
+    <color name="timetimepicker_default_text_color">#999999</color>
+    <color name="timepicker_toolbar_bg">#e60012</color>
+    <color name="timepicker_dialog_bg">#80000000</color>
+    <color name="timepicker_line">#e8e8e8</color>
+    <color name="oil">#333333</color>
+    <color name="translucent">#80000000</color>
+    <color name="color_popup_background">#20000000</color>
+    <color name="image_overlay">#20000000</color>
+    <color name="image_overlay_dark">#40000000</color>
+
+    <color name="color_primary_pressed">#5D4037</color>
+    <color name="color_gray">#e7e7e7</color>
+    <color name="color_medium_gray">#e6e6e6</color>
+    <color name="color_light_gray">#d2d2d2</color>
+    <color name="color_blue">#53caf3</color>
+    <color name="color_blue_dark">#32bae8</color>
+    <color name="color_yellow">#ffc800</color>
+    <color name="color_yellow_dark">#ff8a1a</color>
+    <color name="color_red">#ff725e</color>
+    <color name="color_red_dark">#9a3023</color>
+
+    <color name="color_main_activity_bottom_button_pressed">#ffff99</color>
+    <color name="color_home_item_content_title">#d62e52</color>
+    <color name="color_home_item_content_title_dark">#d62e52</color>
+
+    <color name="circle_progressbar_background">#8f8f8f</color>
+    <color name="circle_progressbar">@color/colorPrimary</color>
+</resources>
